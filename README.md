@@ -1,4 +1,4 @@
-<img width="889" height="294" alt="image" src="https://github.com/user-attachments/assets/9fba42e7-2901-4b5c-b0e8-8e5da6a3692a" /># Hi, I'm Piyusha Fargade 👋
+Hi, I'm Piyusha Fargade
 
 ### Electronics & Telecommunication Engineering Student
 
