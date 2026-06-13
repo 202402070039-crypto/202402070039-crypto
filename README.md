@@ -1,4 +1,4 @@
-Hi, I'm Piyusha Fargade
+##Hi, I'm Piyusha Fargade
 
 ### Electronics & Telecommunication Engineering Student
 
@@ -14,8 +14,6 @@ Passionate about building intelligent systems through **Embedded Systems, IoT, S
 * 🔹 Always learning new technologies and building practical projects
 
 ---
-
-## 🛠️ Skills
 
 ## 🛠️ Skills
 
