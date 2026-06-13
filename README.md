@@ -1,4 +1,4 @@
-# Hi, I'm Piyusha Fargade 👋
+<img width="889" height="294" alt="image" src="https://github.com/user-attachments/assets/9fba42e7-2901-4b5c-b0e8-8e5da6a3692a" /># Hi, I'm Piyusha Fargade 👋
 
 ### Electronics & Telecommunication Engineering Student
 
@@ -15,41 +15,30 @@ Passionate about building intelligent systems through **Embedded Systems, IoT, S
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
-### Embedded Systems
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge)
+![Simulink](https://img.shields.io/badge/Simulink-FF8000?style=for-the-badge)
 
-* STM32
-* Raspberry Pi
-* Embedded C
-* UART, I2C, SPI
-* Interrupt Programming
-* Sensor Interfacing
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Programming
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-* C
-* C++
-* Python
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### Simulation & Analysis
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-* MATLAB
-* Simulink
-
-### Machine Learning
-
-* Scikit-Learn
-* NumPy
-* Pandas
-* Matplotlib
-
-### Web Development
-
-* HTML
-* CSS
-* JavaScript
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 
 ## 🌐 Connect With Me
